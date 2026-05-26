@@ -1,7 +1,4 @@
-📝 Projeto Detector de Tráfego Inteligente – README completo
-Este é o arquivo README.md que conta a história do seu projeto. Ele está pronto para ser colado no seu repositório. Substitua apenas os links das imagens (se ainda não tiver, deixe como estão ou remova temporariamente). O texto destaca exatamente a sua jornada de aprendizado.
 
-markdown
 # 🚗 Detector de Tráfego Inteligente com YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -196,4 +193,3 @@ Este projeto foi construído com o apoio de ferramentas gratuitas e comunidades 
 MIT — sinta-se à vontade para usar, modificar e compartilhar.
 
 Desenvolvido como parte de uma jornada de transição de carreira. Feedbacks são muito bem-vindos!
-
