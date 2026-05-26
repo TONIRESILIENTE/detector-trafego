@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de mídia pesados (vídeos de entrada/saída)
+videos/*.mp4
+output/*.mp4
+output/*.csv
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+# Modelos YOLO
+*.pt
